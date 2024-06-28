@@ -26,7 +26,6 @@ print('헬로')
 여러줄 넘깁니다
 ```
 
-```
 [노션으로 이동](https://naver.com)
 
 ![신짱구](https://imgur.com/d38VchT)
